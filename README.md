@@ -1,7 +1,8 @@
 # Projet_2_MAT1460
 Code python modélisant la trajectoire d'une proie et de plusieurs prédateurs.
 Attention, pour permettre l'enregistrement de l'animation il faut avoir préalablement installer le module **ffmpeg**.
-Pour exécuter le code sans sauvegarder l'animation, il est nécessaire
+Pour exécuter le code sans sauvegarder l'animation, il est nécessaire de changer un paramètre du programme (dans `main.py`).
+Exécuter `main.py` pour faire tourner le programme.
 
 ## Fonctionnalité
 
@@ -12,3 +13,5 @@ Pour exécuter le code sans sauvegarder l'animation, il est nécessaire
 
 ## Auteur
 20244742
+
+Équipe 20244742, 20227905, 20249382, 20028032
